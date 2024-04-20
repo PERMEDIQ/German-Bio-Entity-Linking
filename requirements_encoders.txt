@@ -1,0 +1,4 @@
+FlagEmbedding==1.2.1
+transformers
+sentencepiece
+protobuf
