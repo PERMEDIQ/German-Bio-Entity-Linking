@@ -85,11 +85,11 @@ Follow the steps in the `scispacy.iypnb` to reproduce results.
 
 ## Embedding based models:
 
-[cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR](https://huggingface.co/cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR): Multilingual model trained on UMLS
+* [SapBERT-DE](https://huggingface.co/permediq/SapBERT-DE): a finetuned version of multilingual BEL model [cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR](https://huggingface.co/cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR). The model is finetuned using German BEL KB [UMLS-Wikidata](https://zenodo.org/records/11003203) as described in the [SapBERT Repo](https://github.com/cambridgeltl/sapbert).
 
-[jinaai/jina-embeddings-v2-base-de](https://huggingface.co/jinaai/jina-embeddings-v2-base-de): a German/English bilingual text embedding model 
+* [jinaai/jina-embeddings-v2-base-de](https://huggingface.co/jinaai/jina-embeddings-v2-base-de): a German/English bilingual text embedding model 
 
-[BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3) : Multilingual model which can generate dense, sparse, and [colbert style](https://til.simonwillison.net/llms/colbert-ragatouille) embeddings. We only use dense embeddings.
+* [BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3) : Multilingual model which can generate dense, sparse, and [colbert style](https://til.simonwillison.net/llms/colbert-ragatouille) embeddings. We only use dense embeddings.
 
 ### Installation: 
 
