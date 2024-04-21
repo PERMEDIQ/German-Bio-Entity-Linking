@@ -2,8 +2,13 @@
 
 # README
 
-Python Version: 3.8.0
+This Repository contains source code for the paper: Leveraging Wikidata for Biomedical Entity Linking in a Low-Resource Setting: A Case Study for German
 
+### Resources:
+
+Finetuned SapBERT for German: https://huggingface.co/permediq/SapBERT-DE
+
+German Biomedical Entity Linking Knowledge Base (**UMLS-Wikidata**): https://zenodo.org/records/11003203
 
 ## Scispacy
 
