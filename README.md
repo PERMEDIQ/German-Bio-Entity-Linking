@@ -2,7 +2,7 @@
 
 # README
 
-This Repository contains source code for the paper: Leveraging Wikidata for Biomedical Entity Linking in a Low-Resource Setting: A Case Study for German
+This Repository contains source code for the paper: [Leveraging Wikidata for Biomedical Entity Linking in a Low-Resource Setting: A Case Study for German](https://aclanthology.org/2024.clinicalnlp-1.17/)
 
 ### Resources:
 
@@ -125,13 +125,26 @@ The exact dependencies used are mentioned in `reference_requirements.txt` for re
 
 Python 3.8.0 
 
-# References:
+## References:
 
 The Repository is based on [ScispaCy](https://github.com/allenai/scispacy) Repository. 
 
-
-
-
+## BibTeX
+```bash
+@inproceedings{mustafa-etal-2024-leveraging,
+    title = "Leveraging {W}ikidata for Biomedical Entity Linking in a Low-Resource Setting: A Case Study for {G}erman",
+    author = "Mustafa, Faizan E  and
+      Dima, Corina  and
+      Ochoa, Juan  and
+      Staab, Steffen",
+    booktitle = "Proceedings of the 6th Clinical Natural Language Processing Workshop",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.clinicalnlp-1.17",
+    pages = "202--207", 
+```
 
 
 
